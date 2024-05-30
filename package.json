@@ -2,7 +2,7 @@
   "name": "my-app6",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://naruengineer.github.io/narunaruQuiz/build/",
+  "homepage": "./",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
