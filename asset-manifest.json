@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/narunaruQuiz/static/css/main.0e5162d4.css",
-    "main.js": "/narunaruQuiz/static/js/main.19aa36b0.js",
+    "main.css": "/narunaruQuiz/static/css/main.cae7aff2.css",
+    "main.js": "/narunaruQuiz/static/js/main.a3d431c7.js",
     "reactPlayerYouTube.js": "/narunaruQuiz/static/js/reactPlayerYouTube.7b25592a.chunk.js",
     "reactPlayerSoundCloud.js": "/narunaruQuiz/static/js/reactPlayerSoundCloud.29f9041f.chunk.js",
     "reactPlayerVimeo.js": "/narunaruQuiz/static/js/reactPlayerVimeo.e5ed5c0c.chunk.js",
@@ -19,8 +19,8 @@
     "static/js/453.5109e696.chunk.js": "/narunaruQuiz/static/js/453.5109e696.chunk.js",
     "static/media/logo.svg": "/narunaruQuiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/narunaruQuiz/index.html",
-    "main.0e5162d4.css.map": "/narunaruQuiz/static/css/main.0e5162d4.css.map",
-    "main.19aa36b0.js.map": "/narunaruQuiz/static/js/main.19aa36b0.js.map",
+    "main.cae7aff2.css.map": "/narunaruQuiz/static/css/main.cae7aff2.css.map",
+    "main.a3d431c7.js.map": "/narunaruQuiz/static/js/main.a3d431c7.js.map",
     "reactPlayerYouTube.7b25592a.chunk.js.map": "/narunaruQuiz/static/js/reactPlayerYouTube.7b25592a.chunk.js.map",
     "reactPlayerSoundCloud.29f9041f.chunk.js.map": "/narunaruQuiz/static/js/reactPlayerSoundCloud.29f9041f.chunk.js.map",
     "reactPlayerVimeo.e5ed5c0c.chunk.js.map": "/narunaruQuiz/static/js/reactPlayerVimeo.e5ed5c0c.chunk.js.map",
@@ -38,7 +38,7 @@
     "453.5109e696.chunk.js.map": "/narunaruQuiz/static/js/453.5109e696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e5162d4.css",
-    "static/js/main.19aa36b0.js"
+    "static/css/main.cae7aff2.css",
+    "static/js/main.a3d431c7.js"
   ]
 }
